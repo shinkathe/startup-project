@@ -1,0 +1,3 @@
+Go to https://sequencediagram.org/ and open svg file for editing. Save back as an SVG to keep source.
+
+NOTE: Do not include any customer details into these diagrams, keep it general

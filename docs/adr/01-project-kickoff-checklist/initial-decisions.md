@@ -15,27 +15,22 @@
 | Chosen  | Which |Reason |
 |---|---|---|
 | Project nickname | ???| |
-|  Cloud platform | ??? | [Given by customer](#given) |
+|  Cloud platform | ??? | [Link1](#link1) |
 |  SPA vs SSR| ??? | ??? (#given) |
 |  Frontend tech stack | ??? | [Frontend](#frontend) |
 |  Backend tech stack | ??? | [Backend](#backend) |
 | Translation provider| ??? | |
 |  DB | ??? | [Database](#db) |
 |  IAC | ??? | [IAC](#db) |
-|  Devops | ??? | [Devops](#given) |
-|  Static code analysis | ??? | [Given by Devsecops](#given) |
+|  Devops | ??? |  |
+|  Static code analysis | ??? | |
 |  Project Management | ??? | [JIRA](#given) |
 |  Branching strategy | ??? | [Branching strategy](#branching_strategy) |
 | Hotfix process | ??? | |
 | Project process | ??? | |
 
+# Link1
 
-# Required ceremonies
+- Placeholder
 
-# Given
-
-# Frontend
-
-# Backend
-
-# Branching strategy
+# DB
